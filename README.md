@@ -1,8 +1,5 @@
 # Car Price Predictor
 
-Project link: https://car-price-price.herokuapp.com
-Demo Video: https://youtu.be/HEaFU68WAPM
-
 <img src="https://github.com/HalfBloodBunny/Car-Price-Prediction/blob/main/demo.png">
 
 
