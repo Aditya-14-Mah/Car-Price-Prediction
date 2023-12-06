@@ -34,7 +34,7 @@ And you are good to go.
 
 ## How this project does?
 
-1. First of all the data was scraped from Quikr.com (https://quikr.com) 
+1. First of all the data was scraped from Quikr.com (https://quikr.com) \n
 Link for data: https://github.com/HalfBloodBunny/Car-Price-Prediction/blob/main/quikr_car.csv
 
 2. The data was cleaned
